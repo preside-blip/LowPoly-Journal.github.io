@@ -1,0 +1,66 @@
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    color: #fcfcfc;
+    background-color: #222c36;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: #f46134;
+}
+
+h2 {
+    color: #f46134;
+}
+
+.Header {
+    font-size: large;
+    background-color: #192128;
+}
+
+.btn-outline-info {
+    border-color: #f46134;
+    color: #f46134;
+    font-size: large;
+}
+
+.btn-outline-info:hover {
+    color: #fcfcfc;
+    background-color: #f46134;
+    border-color: #f46134;
+}
+
+.navbar-brand span {
+    color: #f46134;
+    padding-left: 8%;
+}
+
+.definicion {
+    background-color: #2f3742;
+}
+
+#slogan {
+    display: flex;
+    align-items: center;
+}
+
+.feature {
+    text-align: center;
+}
+
+.col-xl-4 {
+    background-color: #2f3742;
+}
+
+.col-lg-8 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.feature h2 {
+    color: #f46134;
+}
+
+.svg_btn {
+    fill: #f46134;
+}
